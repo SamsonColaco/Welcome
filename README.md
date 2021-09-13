@@ -1,8 +1,9 @@
 
 ## Welcome to my page!
 
-Connect to me on [linkedin](www.linkedin.com/in/samson-colaco) for any quieres 
-Follow my [Twitter!](https://twitter.com/ColacoSamson)
+Connect to me on [linkedin](www.linkedin.com/in/samson-colaco) for any quieres.
+
+Follow my [Twitter](https://twitter.com/ColacoSamson)!.
 
 This page is still in the building phase.
 
