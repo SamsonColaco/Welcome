@@ -12,29 +12,29 @@ This page is still in the building phase.
 Given below are my achievments :))
   
 ```markdown
-Syntax highlighted code block
+Some certs which will soon be here!
 
-# Header 1
-## Header 2
-### Header 3
+# CCNA
+## CEH
+### OSCP
 
-- Bulleted
-- List
+- Security +
+- Linux +
 
-1. Numbered
-2. List
+1. //soon//
+2. //soon//
 
-**Bold** and _Italic_ and `Code` text
+**24/7** and _24/7_ and `24/7` here to help!
 
-[Link](url) and ![Image](src)
+[Whatsapp](https://wa.me/7977544883) 
+
+![keep chilling](https://images.app.goo.gl/dvAszcSyZTz6KFQe6)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details scroll through evrything again.
 
-### Jekyll Themes
+### Soon to be made available.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamsonColaco/hello-world/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Please do Support 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
