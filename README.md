@@ -27,7 +27,7 @@ Some certs which will soon be here!
 **24/7** and _24/7_ and `24/7` here to help!
 ```
 
-[Whatsapp](https://wa.me/7977544883) 
+[Whatsapp](https://sites.psu.edu/whatisnormal/2014/10/15/just-kidding/) 
 
 ![keep chilling](https://www.bit.ly/fcc-relaxing-cat)
 
