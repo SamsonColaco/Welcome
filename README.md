@@ -1,4 +1,4 @@
-
+<h1><b> This is Samson Colaco. <b> </h1>
 ## Welcome to my page!
 
 Connect to me on [linkedin](www.linkedin.com/in/samson-colaco) for any quieres.
@@ -7,10 +7,10 @@ Follow my [Twitter](https://twitter.com/ColacoSamson)!.
 
 This page is still in the building phase.
 
-### Markdown
+### Achievements!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Given below are my achievments :))
+  
 ```markdown
 Syntax highlighted code block
 
