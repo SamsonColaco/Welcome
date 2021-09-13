@@ -1,7 +1,7 @@
 ## This is Samson Colaco.
 ## Welcome to my page!
 
-Connect to me on [linkedin](www.linkedin.com/in/samson-colaco) for any quieres.
+Connect to me on [linkedin](https://www.linkedin.com/in/samson-colaco) for any quieres.
 
 Follow my [Twitter](https://twitter.com/ColacoSamson)!.
 
