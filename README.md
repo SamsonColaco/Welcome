@@ -1,4 +1,4 @@
-<h1><b> This is Samson Colaco. <b> </h1>
+## This is Samson Colaco.
 ## Welcome to my page!
 
 Connect to me on [linkedin](www.linkedin.com/in/samson-colaco) for any quieres.
