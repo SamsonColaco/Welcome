@@ -25,11 +25,12 @@ Some certs which will soon be here!
 2. //soon//
 
 **24/7** and _24/7_ and `24/7` here to help!
+```
 
 [Whatsapp](https://wa.me/7977544883) 
 
 ![keep chilling](https://images.app.goo.gl/dvAszcSyZTz6KFQe6)
-```
+
 
 For more details scroll through evrything again.
 
