@@ -1,9 +1,10 @@
-<tittle>SamSecurity</tittle>
+
 ## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/SamsonColaco/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Connect to me on [linkedin](www.linkedin.com/in/samson-colaco) for any quieres 
+Follow my [Twitter!](https://twitter.com/ColacoSamson)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is still in the building phase.
 
 ### Markdown
 
