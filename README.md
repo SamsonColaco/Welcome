@@ -29,7 +29,7 @@ Some certs which will soon be here!
 
 [Whatsapp](https://wa.me/7977544883) 
 
-![keep chilling](https://images.app.goo.gl/dvAszcSyZTz6KFQe6)
+![keep chilling](https://www.bit.ly/fcc-relaxing-cat)
 
 
 For more details scroll through evrything again.
